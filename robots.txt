@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /scratch/
+Disallow: /private/
+
+Sitemap: https://avalone.brigade-projects.in/sitemap.xml
